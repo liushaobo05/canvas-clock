@@ -1,0 +1,11 @@
+{
+	"pages":[
+    "pages/clock"
+	],
+	"window": {
+    "navigationBarTextStyle": "light",
+    "navigationBarTitleText": "我的小程序",
+    "navigationBarBackgroundColor": "#000",
+    "backgroundColor": "#fbf9fe"
+  }
+}
